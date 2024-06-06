@@ -3,7 +3,7 @@
 
  ## Project Overview
 
- I'm delighted to offer insights into tackling attrition challenges amidst the ever-changing dynamics of today's workforce! This examination delves into the intricacies of retaining employees and delves into strategies for cultivating a resilient workplace culture.
+ I am delighted to offer insights into tackling attrition challenges amidst the ever-changing dynamics of today's workforce! This examination delves into the intricacies of retaining employees and delves into strategies for cultivating a resilient workplace culture.
  ![image](https://github.com/ojememary/HR-Attrition-Analysis/assets/155962114/ed5e207c-52b7-40df-80e1-c2e63b134f86)
 
 
@@ -75,6 +75,8 @@ More Staff at the age range of 31-35 years are leaving the company.
 More Staff are leaving the company because they get inadequate salary compensation. 87 under paid staff have left.
 
 ![image](https://github.com/ojememary/HR-Attrition-Analysis/assets/155962114/a9762046-9e2f-4407-bd65-c1f73854a131)
+
+
 
 
 ## RECCOMENDATION:
